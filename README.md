@@ -1,4 +1,4 @@
-# 📧 Email Website Automation using Selenium (Python)
+# 📧 Email's Websites Automation using Selenium (Python)
 
 This project is a Python-based automation script that uses **Selenium WebDriver** to automate common tasks on email websites such as **login, composing emails, and sending messages**. It's built to simulate human-like actions in the browser and is useful for automating routine email workflows.
 
