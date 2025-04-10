@@ -5,7 +5,7 @@ This project is a Python-based automation script that uses **Selenium WebDriver*
 ---
 
 ## 🔧 Features
-- Automated login to web-based email platforms (e.g., Gmail, Outlook)
+- Automated login to web-based email platforms
 - Compose and send emails with custom subjects and messages
 - Handle delays, waits, and captchas where applicable
 - Uses browser automation with Selenium for reliability
