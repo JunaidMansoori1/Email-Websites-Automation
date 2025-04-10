@@ -26,3 +26,18 @@ This project is a Python-based automation script that uses **Selenium WebDriver*
 ```bash
 git clone https://github.com/yourusername/email-website-automation.git
 cd email-website-automation
+```
+
+---
+
+## ⚠️ Disclaimer
+
+> This project is for **educational purposes only**.  
+> Please **do not misuse** this script for spam or harassment.  
+> By using this tool, you agree that:
+> - You take full responsibility for your actions  
+> - You understand the risks of account bans, limitations, or legal issues  
+> - **I, Junaid Mansoori, am not responsible** for any misuse, suspension, or damage caused
+
+---
+
